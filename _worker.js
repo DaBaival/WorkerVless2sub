@@ -7,9 +7,7 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
-	'acus.cloudflarest.link:80#高速优选',
-	'achk.cloudflarest.link:2052#高速优选',
-	'acjp.cloudflarest.link:2052#高速优选',
+	'cdn.jsbang.top#高速优选',
 ];
 
 // 设置优选地址api接口
