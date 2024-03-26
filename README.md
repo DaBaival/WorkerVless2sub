@@ -118,4 +118,3 @@
 ## Star 星星走起
 [![Stargazers over time](https://starchart.cc/cmliu/WorkerVless2sub.svg?variant=adaptive)](https://starchart.cc/cmliu/WorkerVless2sub)
 
-[![Stargazers over time](https://starchart.cc/DaBaival/WorkerVless2sub.svg?variant=adaptive)](https://starchart.cc/DaBaival/WorkerVless2sub)
