@@ -2,8 +2,6 @@
 
 ### 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器
 
-Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
-
 # Workers 部署方法 [视频教程](https://youtu.be/AtCF7eq0hcE)
 
 ### 1. 部署 Cloudflare Worker：
@@ -108,8 +106,3 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 ## Star 星星走起
 [![Stargazers over time](https://starchart.cc/cmliu/WorkerVless2sub.svg?variant=adaptive)](https://starchart.cc/cmliu/WorkerVless2sub)
-
-# 感谢
-我自己的脑洞，[SAKURA-YUMI](https://github.com/SAKURA-YUMI)，[EzSync](https://github.com/EzSync)
-
-
