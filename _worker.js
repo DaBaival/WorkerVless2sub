@@ -11,13 +11,13 @@ let addresses = [
 	'cf.090227.xyz#官方优选-CM提供',
 	'cfip.xxxxxxxx.tk#官方优选-OTC提供',
 	'cloudflare.cfgo.cc#优选官方线路',
- '185.221.160.203:443#电信优选IP',
+        '185.221.160.203:443#电信优选IP',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
-'https://raw.githubusercontent.com/DaBaival/WorkerVless2sub/main/addressesapi.txt',
+'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt'， //可参考内容格式 自行搭建。
+'https://raw.githubusercontent.com/DaBaival/WorkerVless2sub/main/addressesapi.txt'，
   'https://addressesapi.090227.xyz/CloudFlareYes',
 //'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
