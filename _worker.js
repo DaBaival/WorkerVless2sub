@@ -21,7 +21,7 @@ let addressesapi = [
 
 let DLS = 4;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
+	'https://raw.githubusercontent.com/DaBaival/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
 
 let subconverter = "api.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
